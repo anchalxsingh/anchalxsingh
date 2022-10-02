@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @anchalxsingh
-- 👀 I’m interested in Tech
-- 🌱 I’m currently pursuing Master of science in computer science
-- 💞️ I’m looking to collaborate on computer science based projects
+- 👋 Hi, I’m Anchal
+- 👀 I’m 21, currently pursuing Master of science in Computer science
 - 📫 You can mail me at asing102@stevens.edu
 
 <!---
